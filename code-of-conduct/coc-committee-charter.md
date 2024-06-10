@@ -56,6 +56,14 @@ CNCF will appoint 2 staff members to serve on the CoC Committee as primary repre
 
 CNCF may appoint up to 2 alternate staff members to serve on the committee on an ongoing basis. Alternatively, in the event one of the primary CNCF staff representatives is unavailable or has a conflict of interest for a particular incident, CNCF may appoint an alternate staff representative just for that incident.
 
+CNCF staff shall support the CoC by working to foster and maintain an
+environment with the north star of:
+1. maximize collaboration (ie: avoid CoC incidents)
+1. minimize risk to community (ie: active safety emphasis in event of a CoC
+   incident)
+1. maximize restoration (ie: in the event of a CoC incident)
+1. minimize risk to the foundation (ie: Legal reaction to CoC incident)
+
 ## Alternates  
 
 Alternates do not participate in resolution of every incident; alternates participate only on an as needed basis to when a primary committee member is unavailable or has a conflict of interest, for the purpose of ensuring that multiple Community Members participate in resolution of every incident.
